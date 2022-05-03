@@ -1,0 +1,17 @@
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.exe
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.deps.json
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\ref\Receive.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.pdb
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\ref\Receive.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.pdb
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache

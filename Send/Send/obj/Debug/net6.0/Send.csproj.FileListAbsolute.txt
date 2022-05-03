@@ -1,0 +1,17 @@
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\Send.exe
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\Send.deps.json
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\Send.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\ref\Send.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\Send.pdb
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\ref\Send.dll
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.pdb
+E:\Estudos\c#\Conhecendo o RabbitMQ\Send\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
